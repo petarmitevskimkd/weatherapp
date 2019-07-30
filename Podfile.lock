@@ -1,0 +1,40 @@
+PODS:
+  - Alamofire (4.8.2)
+  - AlamofireImage (3.5.2):
+    - Alamofire (~> 4.8)
+  - lottie-ios-extension (1.5.1.1)
+  - ReachabilitySwift (4.3.1)
+  - SwiftDate (6.0.3)
+  - URWeatherView (0.7.0):
+    - lottie-ios-extension
+    - URWeatherView/Core (= 0.7.0)
+  - URWeatherView/Core (0.7.0):
+    - lottie-ios-extension
+
+DEPENDENCIES:
+  - Alamofire (~> 4.7)
+  - AlamofireImage
+  - ReachabilitySwift
+  - SwiftDate (~> 6.0)
+  - URWeatherView
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - AlamofireImage
+    - lottie-ios-extension
+    - ReachabilitySwift
+    - SwiftDate
+    - URWeatherView
+
+SPEC CHECKSUMS:
+  Alamofire: ae5c501addb7afdbb13687d7f2f722c78734c2d3
+  AlamofireImage: 63cfe3baf1370be6c498149687cf6db3e3b00999
+  lottie-ios-extension: 219b261ba9f3d6a0cda7cf84bbfb545aa5806153
+  ReachabilitySwift: 4032e2f59586e11e3b0ebe15b167abdd587a388b
+  SwiftDate: 8d4f14bf1ef68e95094511504856547bf9e3e1a6
+  URWeatherView: 4a716a83149f788220ec156047e4d0e8517835bf
+
+PODFILE CHECKSUM: 5dc445a9f16d86aa2c191c768a856dcb76c42e15
+
+COCOAPODS: 1.5.3
